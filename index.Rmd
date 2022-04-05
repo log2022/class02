@@ -71,7 +71,7 @@ class: center, middle
 
 ---
 
-# Definições de Logística
+# Definições de Logística Empresarial
 
 Penso que a logística é muito mais um conjunto de princípios do que uma operação. "Fazer" `logística` relaciona-se à **promover o acesso a bens de consumo  e serviços, essenciais à vida humana e promovidos pelo consumo, destinados ao consumidor final da maneira mais eficiente e responsiva possível**. 
 
