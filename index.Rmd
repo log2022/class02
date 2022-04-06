@@ -1,6 +1,6 @@
 ---
-title: "Logística"
-subtitle: "Encontro Síncrono 02"
+title: "Fundamentação teórica e contexto"
+subtitle: "Logística"
 author: 
   - <br></br>Renata Oliveira
 
